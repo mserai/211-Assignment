@@ -1,5 +1,5 @@
 # 211-Assignment
-One of my Assignments in ICS 211 at LCC
+One of my Assignments in ICS 211 at Leeward Community College.
 
 <pre>
 import java.io.File;
